@@ -14,7 +14,6 @@ export const metadata: Metadata = {
   title: "Cledson Cleverton da Silva Santos | Software Engineering Student",
   description:
     "Portfolio of Cledson Cleverton da Silva Santos - Software Engineering Student, NOC Intern, and HR Apprentice",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({

@@ -27,8 +27,7 @@ export function AsciiPortraitCanvas({
     // Load the image
     const img = new Image()
     img.crossOrigin = "anonymous"
-    img.src =
-      "c:\Users\bryzz\Documents\Imagem Portfolio.jpg"
+    img.src ="C:\Users\bryzz\Documents\Imagem Portfolio.jpg"
 
     img.onload = () => {
       // Calculate aspect ratio and apply better cropping
